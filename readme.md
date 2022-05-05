@@ -21,5 +21,5 @@ We may need to use some of the following HTML tags:
 <li>
 ```
 
-You can download an image of the pronunciation ![ninja pronunciation image](https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/pronunciation.png)
+You can download an image of the pronunciation ![ninja pronunciation image](https://github.com/andreachou/Dictionary-Entry/blob/main/pronunciation.png)
 
