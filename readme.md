@@ -8,7 +8,7 @@
 
 Using what we've learned about HTML tags recreate the website displayed below!
 
-![resut preview image](https://user-images.githubusercontent.com/35553710/166410586-39996813-a87b-43c8-b633-2bfe7c634d96.png)
+![resut preview image](https://github.com/andreachou/Dictionary-Entry/blob/main/Reference.png)
 
 We may need to use some of the following HTML tags:
 
