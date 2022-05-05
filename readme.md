@@ -1,4 +1,6 @@
-# Coding Dojo Practice #1
+# Dictionary Entry
+
+## Coding Dojo Practice
 
 ## Objectives
 * Practice writing HTML documents
